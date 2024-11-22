@@ -49,7 +49,7 @@ Here are some of the programming languages, frameworks, and tools I work with:
 ## 📫 Let's Connect!  
 - **LinkedIn**: [Uzair Anjum](https://www.linkedin.com/in/uzair-anjum-4070801b4/)  
 - **Portfolio**: [Portfolio Website](https://uzair460.github.io/MyPortfolio/)  
-- **Email**: [uzairanjum46@gmail.com](uzairanjum46@gmail.com)  
+- **Email**: [anjumuzair46@gmail.com](mailto:anjumuzair46@gmail.com)  
 
 ---
 
